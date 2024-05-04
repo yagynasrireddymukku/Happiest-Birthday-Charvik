@@ -205,7 +205,7 @@ h1{
     font-size: 50px;
     margin-left: 300px;
     text-transform: uppercase;
-    margin-top: 1200px;
+    margin-top: 800px;
 }
 .glowing{
     color:#fff;
@@ -336,7 +336,7 @@ h1{
     width: 45px;
 }
 .right-img{
-    margin-top: -720px;
+    margin-top: -320px;
     margin-left: 1250px;
 }
 @media screen and (max-width: 800px)
