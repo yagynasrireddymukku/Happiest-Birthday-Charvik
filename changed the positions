@@ -205,7 +205,7 @@ h1{
     font-size: 50px;
     margin-left: 300px;
     text-transform: uppercase;
-    margin-top: 800px;
+    margin-top: -800px;
 }
 .glowing{
     color:#fff;
